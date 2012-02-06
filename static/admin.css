@@ -1,0 +1,15 @@
+#ufcoe_tinymce-settings {max-width: 100%;}
+#ufcoe_tinymce-settings h4 {margin:1.5em 0 0}
+.ufcoe-tinymce-preview {margin:1em 3em}
+.ufcoe-tinymce {clear:both; margin-bottom: 1em}
+.ufcoe-tinymce td,
+.ufcoe-tinymce th {border:1px solid #ccc; border-width: 0 0 1px 0; vertical-align: middle;}
+.ufcoe-tinymce td {padding: 2px 0;}
+.ufcoe-tinymce th {padding: 2px 10px 2px;}
+.ufcoe-tinymce th {font-weight: 900;}
+.ufcoe-tinymce table {width: 100%}
+.ufcoe-tinymce table tr > * {border:0}
+.ufcoe-tinymce table div {width:98%; color:#999}
+.ufcoe-tinymce table th {width: 1px}
+.ufcoe-tinymce textarea {height: 4em; font-family: inherit; font-size: 1em; width: 99%}
+.ufcoe-tinymce-reset {float:right}
