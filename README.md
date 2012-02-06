@@ -1,3 +1,5 @@
+*Note!* This directory must be named "ufcoe_tinymce" in your mod folder.
+
 Provides the following features:
 
 * Full configuration of up to 3 tinyMCE button rows
