@@ -61,7 +61,7 @@ function ufcoe_tinymce_alter_views($hook, $type, $return, $params) {
                 }
             }
             if (isset($settings['gecko_spellcheck'])) {
-                str_replace('tinyMCE.init({', 'tinyMCE.init({gecko_spellcheck:true,', $return);
+                $return = str_replace('tinyMCE.init({', 'tinyMCE.init({gecko_spellcheck:true,browser_spellcheck:true,', $return);
             }
         break;
     }
